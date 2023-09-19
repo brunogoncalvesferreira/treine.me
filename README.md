@@ -36,13 +36,13 @@ Siga o passo a passo:
 > git clone
 
 ```
-$ git clone https://github.com/brunogoncalvesferreira/nlw.summary.git
+$ git clone https://github.com/brunogoncalvesferreira/treine.me.git
 ```
 
 > Acesse a pasta
 
 ```
-$ cd nlw.summary
+$ cd treine.me
 ```
 
 > Instale as dependências
@@ -54,11 +54,7 @@ $ npm install
 > Executando aplicação
 
 ```
-// Terminal para executar o frontend
 $ npm run web
-
-// Terminal para executar o backend
-$ npm run server
 ```
 
 <h2 align="license"> Licença</h2>
