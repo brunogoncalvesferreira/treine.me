@@ -1,0 +1,28 @@
+@media (max-width: 768px) {
+  html {
+    font-size: 87.5%;
+  }
+
+  header {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  main {
+    flex-direction: column;
+  }
+
+  main #info h2,
+  main #info p {
+    text-align: center;
+    max-width: initial;
+  }
+
+  main #info button {
+    margin: 0 auto;
+  }
+
+  main #image img {
+    width: 100%;
+  }
+}
